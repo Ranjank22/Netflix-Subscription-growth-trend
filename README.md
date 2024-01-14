@@ -9,18 +9,14 @@ This Python script performs a comprehensive time series analysis on Netflix subs
 - Python (>=3.6)
 - Required libraries: pandas, numpy, matplotlib, plotly, statsmodels
 
-### Installation
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/yourusername/netflix-subscriptions-analysis.git
-   cd netflix-subscriptions-analysis
 
-Features
+#Features
 Visualizes quarterly subscription growth using Plotly.
 Calculates quarterly and yearly growth rates.
 Performs ARIMA modeling for forecasting Netflix subscription numbers.
 Presents predictions with original data in an enhanced Plotly layout.
-Directory Structure
+
+#Directory Structure
 netflix_analysis.py: The main Python script.
 requirements.txt: Lists the required Python libraries.
 Dependencies
@@ -29,5 +25,6 @@ numpy (>=1.18.0)
 matplotlib (>=3.1.0)
 plotly (>=4.0.0)
 statsmodels (>=0.12.0)
-Contributing
+
+#Contributing
 Feel free to contribute by opening issues, suggesting improvements, or submitting pull requests.
